@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @harrigandev
-- 👀 I’m interested in ... freelance web development or possible employment opportunities.
-- 🌱 I’m currently learning ... Fullstack Web Development - covering HTML, CSS, JS, React and more!
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Josh (@harrigandev)
+- 👀 I’m interested in ... freelance web development and/or possible employment opportunities.
+- 🌱 I’m currently learning ... Fullstack Web Development - covering HTML, CSS, JS, MongoDB, and more through a Bootcamp
+- 💞️ I’m looking to collaborate on ... JS Projects, Web Development
 - 📫 How to reach me ... by email (harrigan.joshua@gmail.com) or  @harrigandev on Instagram/Twitter
 
 <!---
